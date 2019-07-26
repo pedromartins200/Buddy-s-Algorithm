@@ -44,8 +44,11 @@ So we need to find the best suitable spot to put (a1 5)
 Now 8 is the best spot for (a1 5) since, the next division would yield 4, and 4 < 5. So we get
 
 a1 8
+
 f 8
+
 f 16
+
 f 32
 
 
